@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e5d3d1-ea87-4fd9-b0d0-99445d3d722b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/stack_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data-structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-structures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/stack_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/stack_tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
